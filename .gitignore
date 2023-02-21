@@ -1,0 +1,5 @@
+.DS_Store
+resources/_gen/*
+themes/resources/_gen/*
+themes/diy/static/css/vue/*
+content/demo/*
